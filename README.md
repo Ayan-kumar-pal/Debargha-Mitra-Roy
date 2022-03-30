@@ -2,10 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'm+Debargha+Mitra+Roy)](https://git.io/typing-svg)
 
-
 [![Visits Badge](https://badges.pufler.dev/visits/Debargha-Mitra-Roy/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/Debargha-Mitra-Roy/Debargha-Mitra-Roy)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/Debargha-Mitra-Roy)](https://badges.pufler.dev)
+<!-- [![Gists Badge](https://badges.pufler.dev/gists/Debargha-Mitra-Roy)](https://badges.pufler.dev) -->
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Debargha-Mitra-Roy)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/Debargha-Mitra-Roy/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=Debargha-Mitra-Roy)
 [![wakatime](https://wakatime.com/badge/user/0aaa9a42-3350-4791-a9ed-83b85adae54a.svg)](https://wakatime.com/@0aaa9a42-3350-4791-a9ed-83b85adae54a)
 
