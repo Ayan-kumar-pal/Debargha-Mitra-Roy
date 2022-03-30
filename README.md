@@ -6,7 +6,6 @@
 [![Years Badge](https://badges.pufler.dev/years/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/Debargha-Mitra-Roy/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/Debargha-Mitra-Roy)](https://badges.pufler.dev)
-<!-- [![Gists Badge](https://badges.pufler.dev/gists/Debargha-Mitra-Roy)](https://badges.pufler.dev) -->
 [![Created Badge](https://badges.pufler.dev/created/Debargha-Mitra-Roy/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=Debargha-Mitra-Roy)
