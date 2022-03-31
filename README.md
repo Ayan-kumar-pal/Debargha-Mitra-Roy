@@ -1,6 +1,6 @@
 <!-- **Debargha-Mitra-Roy/Debargha-Mitra-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'm+Debargha+Mitra+Roy)](https://git.io/typing-svg)
+<center>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Georgia&center=true&multiline=true&height=75&lines=Hello+World!👋;+I'm+Debargha+Mitra+Roy)](https://git.io/typing-svg)</center>
 
 [![Visits Badge](https://badges.pufler.dev/visits/Debargha-Mitra-Roy/Debargha-Mitra-Roy)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/Debargha-Mitra-Roy)](https://badges.pufler.dev)
